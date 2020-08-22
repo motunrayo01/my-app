@@ -2,6 +2,6 @@
   align-content: center;
     padding: 20px; font-size: 20px;  border-radius: 10px; margin-top: 15px; 
       margin-left:10px;margin-right:10px; background-image: url("../src/images/bg.jpg" );
-      background-attachment: fixed;background-size:cover;background-clip: inherit;background-position:center; }
+      background-attachment: fixed;background-size: cover;background-clip: inherit;background-position:center; }
 .body{color: white; text-align: center; border: thin white; margin-top: 50px;}
 .jumbotron {color: white; text-align: center; border: thin white; margin-top: 50px;background: #717573;opacity: 0.6;}
